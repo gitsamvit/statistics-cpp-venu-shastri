@@ -2,5 +2,5 @@
 
 Stats Statistics::ComputeStatistics(const std::vector<___>& ) {
     //Implement statistics here
-    int x=0;
+    int x=10;
 }
